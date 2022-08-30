@@ -10,14 +10,14 @@ Time spent: 2 hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] Score displayed on screen
-* [ ] Button displayed on screen
+* [X] Score displayed on screen
+* [X] Button displayed on screen
 
 The following **optional** features are implemented:
 
-* [ ] Customized background image
-* [ ] Customized button icon
-* [ ] Added an upgrade button at 100 points to increase score increments by 2 instead of 1.
+* [X] Customized background image
+* [X] Customized button icon
+* [X] Added an upgrade button at 100 points to increase score increments by 2 instead of 1.
 
 ## Video Walkthrough
 
